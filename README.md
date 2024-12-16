@@ -89,9 +89,10 @@ Para organizar as atividades:
 
 Adotamos o seguinte fluxo de trabalho:
 
-1. **Criação de branches:** Cada funcionalidade ou ajuste era desenvolvido em uma branch específica.
+1. **Criação de branches:** Cada funcionalidade ou ajuste era desenvolvido em uma branch específica, com o nome da sua tarefa, a mesma era criada espelhando a branch de desenvolvimento, a `development`.
 2. **Pull Requests:** Após a conclusão de uma tarefa, um PR era criado para revisão de código, garantindo que as alterações estivessem alinhadas com as boas práticas e os requisitos do projeto. Os PRs fechados estão disponíveis [aqui](https://github.com/Jorgeluisreis/TicTacToe/pulls?q=is%3Apr+is%3Aclosed).
 3. **Integração:** Após a aprovação, o código era integrado à branch `development`.
+4. **Deploy:** Após a integração com a `development`, é feito um PR para a branch `main` para o deploy, fazendo o gerenciamento de versão da aplicação, com a disponibilização de **changelog** de correções e novas funcionalidades.
 
 ### 🛠️ Gestão de Issues
 
