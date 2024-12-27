@@ -49,11 +49,11 @@ Abaixo estão os integrantes da equipe **TicTacToe**. Cada um contribuiu de form
 
 <div align="center">
 
-| ![Jorge Luis](https://media.licdn.com/dms/image/v2/D4E03AQESebz2VylEGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718233854293?e=1739404800&v=beta&t=kCFe18zj1w3bOaAp8dVL_OjPrqOZK3AeMqmRJKajld8) | ![José Victor Venetillo](https://media.licdn.com/dms/image/v2/D4D03AQE32C6ALF_HjA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684169770688?e=1739404800&v=beta&t=tLscXtRgKFrk_TOTNoI1t0b7THTwe3elWy6CBL77hWQ) | ![Arthur Ramalho Freire](https://media.licdn.com/dms/image/v2/D4D03AQHFXwqaRPA_cA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718159111276?e=2147483647&v=beta&t=-pMrVP85MizZlV7qc7vKfmOkHBGJ4_p0XRN7cP2GiEc) |
+| ![Jorge Luis](https://media.licdn.com/dms/image/v2/D4E03AQESebz2VylEGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718233854293?e=1739404800&v=beta&t=kCFe18zj1w3bOaAp8dVL_OjPrqOZK3AeMqmRJKajld8) | ![José Victor Venetillo](https://i.imgur.com/7baoEfR.jpeg) | ![Arthur Ramalho Freire](https://i.imgur.com/mZP2LcT.jpeg) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      [Jorge Luis](https://www.linkedin.com/in/ojorge-luis/)                                                                                       |                                                                                       [José Victor Venetillo](https://www.linkedin.com/in/vvenetillo)                                                                                        |                                                                                  [Arthur Ramalho Freire](https://www.linkedin.com/in/arthurramalhofreire/)                                                                                   |
 
-| ![Gilvan Ribeiro](https://media.licdn.com/dms/image/v2/D4D03AQEj92YKf_3InA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727309792942?e=1739404800&v=beta&t=hqN-_eL3b4C_R3db4KTg4oH5kVA5OFVeOPLEcplyLQg) | ![Luan Nascimento](https://media.licdn.com/dms/image/v2/D4D03AQFtjB_gTqbsyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703275597793?e=1739404800&v=beta&t=ZoOYbNcTfpruLu6I-s7WaUuykkNzeXfHkFMpnpLB6QA) | ![Hyngred Menezes](https://media.licdn.com/dms/image/v2/D5603AQHZ5spl3s0nVQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731624726621?e=1739404800&v=beta&t=4_WYsATq7SRm5o-w6NPui3VFAxGyMZ7eMcEZOgkXWuE) |
+| ![Gilvan Ribeiro](https://i.imgur.com/EtaEWQb.jpeg) | ![Luan Nascimento](https://media.licdn.com/dms/image/v2/D4D03AQFtjB_gTqbsyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703275597793?e=1739404800&v=beta&t=ZoOYbNcTfpruLu6I-s7WaUuykkNzeXfHkFMpnpLB6QA) | ![Hyngred Menezes](https://i.imgur.com/SsCHM4j.png) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                [Gilvan Ribeiro](https://www.linkedin.com/in/gilvan-ribeiro-573823231/)                                                                                |                                                                                     [Luan Nascimento](https://www.linkedin.com/in/nascmentoluan/)                                                                                      |                                                                               [Hyngred Menezes](https://www.linkedin.com/in/hyngred-menezes-363540327/)                                                                                |
 
@@ -127,7 +127,7 @@ Essa abordagem proporcionou uma experiência prática de desenvolvimento ágil, 
 ### **Arthur Ramalho Freire**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHFXwqaRPA_cA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718159111276?e=2147483647&v=beta&t=-pMrVP85MizZlV7qc7vKfmOkHBGJ4_p0XRN7cP2GiEc" alt="Arthur Ramalho Freire" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://i.imgur.com/mZP2LcT.jpeg" alt="Arthur Ramalho Freire" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <div style="font-weight: bold;">
       <a href="https://www.linkedin.com/in/arthurramalhofreire/" target="_blank">LinkedIn</a>
@@ -147,7 +147,7 @@ Essa abordagem proporcionou uma experiência prática de desenvolvimento ágil, 
 ### **José Victor Venetillo**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE32C6ALF_HjA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684169770688?e=1739404800&v=beta&t=tLscXtRgKFrk_TOTNoI1t0b7THTwe3elWy6CBL77hWQ" alt="José Victor Venetillo" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://i.imgur.com/7baoEfR.jpeg" alt="José Victor Venetillo" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <div style="font-weight: bold;">
       <a href="https://www.linkedin.com/in/vvenetillo/" target="_blank">LinkedIn</a>
@@ -167,7 +167,7 @@ Essa abordagem proporcionou uma experiência prática de desenvolvimento ágil, 
 ### **Gilvan Ribeiro**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEj92YKf_3InA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727309792942?e=1739404800&v=beta&t=hqN-_eL3b4C_R3db4KTg4oH5kVA5OFVeOPLEcplyLQg" alt="Gilvan Ribeiro" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://i.imgur.com/EtaEWQb.jpeg" alt="Gilvan Ribeiro" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <div style="font-weight: bold;">
       <a href="https://www.linkedin.com/in/gilvan-ribeiro-573823231/" target="_blank">LinkedIn</a>
@@ -207,7 +207,7 @@ Essa abordagem proporcionou uma experiência prática de desenvolvimento ágil, 
 ### **Hyngred Menezes**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHZ5spl3s0nVQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731624726621?e=1739404800&v=beta&t=4_WYsATq7SRm5o-w6NPui3VFAxGyMZ7eMcEZOgkXWuE" alt="Hyngred Menezes" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://i.imgur.com/SsCHM4j.png" alt="Hyngred Menezes" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <div style="font-weight: bold;">
       <a href="https://www.linkedin.com/in/hyngred-menezes-363540327/" target="_blank">LinkedIn</a>
