@@ -49,7 +49,7 @@ Abaixo estão os integrantes da equipe **TicTacToe**. Cada um contribuiu de form
 
 <div align="center">
 
-| ![Jorge Luis](https://media.licdn.com/dms/image/v2/D4E03AQESebz2VylEGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718233854293?e=1739404800&v=beta&t=kCFe18zj1w3bOaAp8dVL_OjPrqOZK3AeMqmRJKajld8) | ![José Victor Venetillo](https://i.imgur.com/7baoEfR.jpeg) | ![Arthur Ramalho Freire](https://i.imgur.com/mZP2LcT.jpeg) |
+| ![Jorge Luis](https://i.imgur.com/7583zV4.jpeg) | ![José Victor Venetillo](https://i.imgur.com/7baoEfR.jpeg) | ![Arthur Ramalho Freire](https://i.imgur.com/mZP2LcT.jpeg) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      [Jorge Luis](https://www.linkedin.com/in/ojorge-luis/)                                                                                       |                                                                                       [José Victor Venetillo](https://www.linkedin.com/in/vvenetillo)                                                                                        |                                                                                  [Arthur Ramalho Freire](https://www.linkedin.com/in/arthurramalhofreire/)                                                                                   |
 
@@ -107,7 +107,7 @@ Essa abordagem proporcionou uma experiência prática de desenvolvimento ágil, 
 ### **Jorge Luis**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQESebz2VylEGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718233854293?e=1739404800&v=beta&t=kCFe18zj1w3bOaAp8dVL_OjPrqOZK3AeMqmRJKajld8" alt="Jorge Luis" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://i.imgur.com/7583zV4.jpeg" alt="Jorge Luis" style="width: 70px; height: 70px; border-radius: 50%; margin-right: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <div style="font-weight: bold;">
       <a href="https://www.linkedin.com/in/ojorge-luis/" target="_blank">LinkedIn</a>
